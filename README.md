@@ -24,7 +24,6 @@ Nothing is installed in AWS. Everything runs on your own machine.
 ```
 .
 ├── get-log-groups.py
-├── requirements.txt
 ├── .gitignore
 └── README.md
 ```
