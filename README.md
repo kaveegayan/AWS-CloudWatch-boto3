@@ -1,6 +1,6 @@
 # CloudWatch Logs Query with Boto3 and Docker
 
-A small Python script that lists CloudWatch log groups in an AWS account, using Boto3. It runs inside a Docker container, so there is nothing to install on your machine apart from Docker and the AWS CLI.
+A Python script that lists CloudWatch log groups in an AWS account, using Boto3. It runs inside a Docker container, so there is nothing to install on your machine apart from Docker and the AWS CLI.
 
 I built this as a lab to practise safe, read-only API access to AWS from a script.
 
